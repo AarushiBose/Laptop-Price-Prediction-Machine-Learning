@@ -1,5 +1,8 @@
 # Laptop Price Prediction - Machine Learning Project
 
+![image](https://github.com/user-attachments/assets/7739319b-3da4-4864-9168-ca43b61372ac)
+
+
 ## 📚 Project Overview
 
 The **Laptop Price Predictor** is a data-driven project aimed at estimating laptop prices based on their specifications. By leveraging **data warehousing**, **data mining**, and **machine learning**, this project helps consumers make informed purchasing decisions. A variety of regression and ensemble algorithms were explored to identify the most accurate predictive models.
